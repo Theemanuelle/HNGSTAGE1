@@ -1,0 +1,15 @@
+body {
+    margin: 5px;
+    background-color: antiquewhite;
+}
+
+.root {
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+a {
+    color: black;
+}
